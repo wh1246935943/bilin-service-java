@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @since 2022-04-24
  */
 @RestController
-@RequestMapping("/bilin_service/account")
+@RequestMapping("/account")
 public class AccountController {
 
 }
